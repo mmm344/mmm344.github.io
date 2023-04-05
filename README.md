@@ -4,9 +4,8 @@ Welcome! My name is Matthew McCoy and I am currently working as a Data Scientist
 
 # Sparking joy
 
-A part of stepping into the world of "big data" is to pick a language and stick with it through thick and thin. For me, Spark is just that. This is a project that demonstrates the use of MLlib using spark and how one can understand one thing we all strive for - happiness!
+A part of stepping into the world of "big data" is to pick a language and stick with it through thick and thin. For me, Python is just that. In this project, I used raw data from [Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness), performed some data cleaning and [exploratory analysis](https://github.com/mmm344/python_playground/blob/main/spark_world_happiness.ipynb), regression analysis, and then k-means clustering to help understand socioeconomic factors. Enjoy!
 
-<iframe src="https://raw.githubusercontent.com/mmm344/mmm344.github.io/main/map.html"></iframe>
 
 
 
