@@ -6,6 +6,14 @@ Welcome! My name is Matthew McCoy and I am currently working as a Data Scientist
 
 A part of stepping into the world of "big data" is to pick a language and stick with it through thick and thin. For me, Python is just that. In this project, I used raw data from [Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness), performed some data cleaning and [exploratory analysis](https://github.com/mmm344/python_playground/blob/main/spark_world_happiness.ipynb), regression analysis, and then k-means clustering to help understand socioeconomic factors. Enjoy!
 
+## Preliminary Analysis
+In this phase we get used to the data and seek features within the data such as regression (which will be the next phase). There are two main components to this portion of the project: preprocessing and data exploration. Let's define those terms. 
+
+*Preprocessing:* Preprocessing involves cleaning, transforming, and organizing raw data before it can be used for analysis. This includes tasks such as handling missing or duplicate data, dealing with outliers, scaling and normalizing data, encoding categorical variables, etc. The goal of preprocessing is to ensure that the data is in a usable format for analysis and modeling.
+
+*Data Exploration:* The involves understanding the data and its characteristics before diving into modeling. This includes tasks such as visualizing the data through graphs and charts, calculating summary statistics, identifying patterns and correlations, and identifying potential issues such as bias or class imbalance. The goal of data exploration is to gain insights and intuition about the data, which can inform the modeling process.
+
+
 
 
 
