@@ -4,7 +4,7 @@ Welcome! My name is Matthew McCoy and I am currently working as a Data Scientist
 
 # World Happiness
 
-A part of stepping into the world of "big data" is to pick a language and stick with it through thick and thin. For me, Python is just that. In this project, I used raw data from [Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness), performed some data cleaning and [exploratory analysis](https://github.com/mmm344/python_playground/blob/main/spark_world_happiness.ipynb), regression analysis, and then k-means clustering to help understand socioeconomic factors. This is a light project and meant to showcase basics from ingesting raw data to cleansing/exploratory analysis to building simple models. Enjoy!
+A part of stepping into the world of "big data" is to pick a language and stick with it through thick and thin. For me, Python is just that. In this project, I used raw data from [Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness), performed some data cleaning and exploratory analysis, and regression using ``RandomForestRegressor``. This is a light project and meant to showcase basics from ingesting raw data to cleansing/exploratory analysis to building a simple regression model. Enjoy!
 
 ## Preliminary Analysis
 In this phase we get used to the data and seek features within the data such as regression (which will be the next phase). There are two main components to this portion of the project: preprocessing and data exploration. Let's define those terms. 
@@ -14,7 +14,7 @@ In this phase we get used to the data and seek features within the data such as 
 *Data Exploration:* The involves understanding the data and its characteristics before diving into modeling. This includes tasks such as visualizing the data through graphs and charts, calculating summary statistics, identifying patterns and correlations, and identifying potential issues such as bias or class imbalance. The goal of data exploration is to gain insights and intuition about the data, which can inform the modeling process. I exhibit different feature selection methods as well that will be used for machine laerning. 
 
 ## Building the Model
-For the scope of this project, this is the final phase where I use the previous phases to test out some models. 
+For the scope of this project, this is the final phase where I use the previous phase to compare the the feature selection.
 
 
 
