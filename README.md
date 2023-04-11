@@ -14,7 +14,7 @@ In this phase we get used to the data and seek features within the data such as 
 *Data Exploration:* The involves understanding the data and its characteristics before diving into modeling. This includes tasks such as visualizing the data through graphs and charts, calculating summary statistics, identifying patterns and correlations, and identifying potential issues such as bias or class imbalance. The goal of data exploration is to gain insights and intuition about the data, which can inform the modeling process. I exhibit different feature selection methods as well that will be used for machine laerning. 
 
 ## Building the Model
-For the scope of this project, this is the final phase where I use the previous phase to compare the the feature selection.
+For the scope of this project, this is the final phase where I use the previous phase to compare the feature selection.
 
 
 
